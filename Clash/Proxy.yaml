@@ -1,0 +1,20 @@
+payload:
+  # Evernote
+  - DOMAIN-KEYWORD,evernote
+
+  # Dlercloud
+  - DOMAIN-KEYWORD,dlercloud
+
+  # POE
+  - DOMAIN-SUFFIX,poe.com
+
+  # Github
+  - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN,raw.githubusercontent.com
+
+  # TMDB
+  - DOMAIN,api.themoviedb.org
+  - DOMAIN,api.tmdb.org
+
+  # whimsical.com
+  - DOMAIN-SUFFIX,whimsical.com
