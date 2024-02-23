@@ -10,7 +10,7 @@ payload:
 
   # Github
   - DOMAIN-SUFFIX,githubassets.com
-  - DOMAIN,raw.githubusercontent.com
+  - DOMAIN-SUFFIX,githubusercontent.com
 
   # TMDB
   - DOMAIN,api.themoviedb.org
