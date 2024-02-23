@@ -18,3 +18,6 @@ payload:
 
   # whimsical.com
   - DOMAIN-SUFFIX,whimsical.com
+
+  # Coze
+  - DOMAIN-SUFFIX,coze.com
