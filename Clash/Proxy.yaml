@@ -1,7 +1,4 @@
 payload:
-  # Evernote
-  - DOMAIN-KEYWORD,evernote
-
   # Dlercloud
   - DOMAIN-KEYWORD,dlercloud
 
