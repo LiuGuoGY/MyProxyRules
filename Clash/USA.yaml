@@ -4,3 +4,6 @@ payload:
 
   # 我的域名
   - DOMAIN-SUFFIX,150390.xyz
+  
+  # Claude
+  - DOMAIN-SUFFIX,claude.ai
