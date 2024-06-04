@@ -21,3 +21,6 @@ payload:
 
   # Codeium
   - DOMAIN-SUFFIX,codeium.com
+
+  # DockerHub
+  - DOMAIN-SUFFIX,docker.com
