@@ -1,1 +1,3 @@
-
+payload:
+  # Bilibili
+  - DOMAIN-SUFFIX,bilibili.com
