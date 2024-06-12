@@ -1,3 +1,4 @@
 payload:
   # Bilibili
   - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,biliapi.com
