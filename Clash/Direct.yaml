@@ -1,3 +1,6 @@
 payload:
   # Dler
   - DOMAIN-SUFFIX,dler.cloud
+
+  # Proxy 150390.xyz
+  - DOMAIN,proxy.150390.xyz
