@@ -2,3 +2,6 @@ payload:
   # Bilibili
   - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,biliapi.com
+
+  # 萤石
+  - DOMAIN-SUFFIX,ys7.com
