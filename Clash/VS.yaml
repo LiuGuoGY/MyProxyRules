@@ -1,9 +1,27 @@
 payload:
-  # Bilibili
+  # 哔哩哔哩
   - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,biliapi.com
+  - DOMAIN-SUFFIX,b23.tv
+  - DOMAIN-SUFFIX,bilivideo.com
 
   # 微博
   - DOMAIN-SUFFIX,weibo.com
   - DOMAIN-SUFFIX,weibo.cn
+
+  # 豆瓣
+  - DOMAIN-SUFFIX,douban.com
+
+  # 阿里云盘
+  - DOMAIN-SUFFIX,aliyundrive.com
+  - DOMAIN-SUFFIX,alicdn.com
+  - DOMAIN-SUFFIX,aliyuncs.com
+  
+  # 脉脉
+  - DOMAIN-SUFFIX,maimai.cn
+
+  # 微信朋友圈
+  - DOMAIN-SUFFIX,qpic.cn
+
+  
 
