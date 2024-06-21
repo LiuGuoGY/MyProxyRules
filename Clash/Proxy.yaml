@@ -25,6 +25,3 @@ payload:
 
   # DockerHub
   - DOMAIN-SUFFIX,docker.com
-
-  # 我的域名
-  - DOMAIN-SUFFIX,150390.xyz
