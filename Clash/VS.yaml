@@ -26,5 +26,8 @@ payload:
   # 腾讯游戏
   - DOMAIN-KEYWORD,game.qq.com
 
+  # 荒野乱斗
+  - DOMAIN-SUFFIX,brawlstars.cn
+
   
 
