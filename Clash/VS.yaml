@@ -23,5 +23,8 @@ payload:
   # 微信朋友圈
   - DOMAIN-SUFFIX,qpic.cn
 
+  # 腾讯游戏
+  - DOMAIN,game.qq.com
+
   
 
