@@ -29,5 +29,8 @@ payload:
   # 荒野乱斗
   - DOMAIN-SUFFIX,brawlstars.cn
 
+  # 老乡鸡
+  - DOMAIN-KEYWORD,lxjchina.com.cn
+
   
 
