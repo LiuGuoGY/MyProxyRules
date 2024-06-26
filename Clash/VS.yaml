@@ -24,7 +24,7 @@ payload:
   - DOMAIN-SUFFIX,qpic.cn
 
   # 腾讯游戏
-  - DOMAIN-SUFFIX,game.qq.com
+  - DOMAIN,publicfaa.game.qq.com
 
   
 
