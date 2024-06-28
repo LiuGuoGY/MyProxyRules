@@ -28,3 +28,6 @@ payload:
 
   # Vercel
   - DOMAIN-SUFFIX,vercel.com
+
+  # Platform.io
+  - DOMAIN-SUFFIX,platformio.org
