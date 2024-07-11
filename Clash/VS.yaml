@@ -32,5 +32,8 @@ payload:
   # 老乡鸡
   - DOMAIN-KEYWORD,lxjchina.com.cn
 
+  # 快手
+  - DOMAIN-SUFFIX,kuaishou.com
+
   
 
