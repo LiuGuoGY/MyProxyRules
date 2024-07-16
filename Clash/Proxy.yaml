@@ -31,3 +31,6 @@ payload:
 
   # Platform.io
   - DOMAIN-SUFFIX,platformio.org
+
+  # Digikey
+  - DOMAIN-SUFFIX,digikey.cn
