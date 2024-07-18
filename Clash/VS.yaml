@@ -38,5 +38,8 @@ payload:
 
   # QQ音乐
   - DOMAIN-KEYWORD,y.qq.com
+
+  # 微软
+  - DOMAIN-SUFFIX,live.com
   
 
