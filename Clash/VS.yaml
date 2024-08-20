@@ -48,5 +48,8 @@ payload:
 
   # 小红书
   - DOMAIN-SUFFIX,xiaohongshu.com
+
+  # Steam
+  - DOMAIN-SUFFIX,steampowered.com
   
 
