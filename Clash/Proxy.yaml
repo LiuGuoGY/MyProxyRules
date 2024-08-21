@@ -34,3 +34,6 @@ payload:
 
   # Digikey
   - DOMAIN-SUFFIX,digikey.cn
+
+  # Firebase
+  - DOMAIN-SUFFIX,firebaseapp.com
