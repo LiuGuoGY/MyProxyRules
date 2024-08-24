@@ -37,3 +37,6 @@ payload:
 
   # Firebase
   - DOMAIN-SUFFIX,firebaseapp.com
+
+  # Dribbble
+  - DOMAIN-SUFFIX,dribbble.com
