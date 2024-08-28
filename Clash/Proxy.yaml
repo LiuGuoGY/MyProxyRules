@@ -14,6 +14,7 @@ payload:
 
   # VSCode
   - DOMAIN-KEYWORD,vscode
+  - DOMAIN-KEYWORD,visualstudio
 
   # TMDB
   - DOMAIN,api.themoviedb.org
