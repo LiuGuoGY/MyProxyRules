@@ -12,6 +12,9 @@ payload:
   # DOMAIN-SUFFIX,github.dev
   - DOMAIN-KEYWORD,github
 
+  # VSCode
+  - DOMAIN-KEYWORD,vscode
+
   # TMDB
   - DOMAIN,api.themoviedb.org
   - DOMAIN,api.tmdb.org
