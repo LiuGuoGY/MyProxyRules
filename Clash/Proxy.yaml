@@ -1,6 +1,9 @@
 payload:
   # Dlercloud
   - DOMAIN-KEYWORD,dlercloud
+  
+  # ACA 机场
+  - DOMAIN-KEYWORD,acaisbest
 
   # POE
   - DOMAIN-SUFFIX,poe.com
