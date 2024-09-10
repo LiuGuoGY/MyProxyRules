@@ -4,6 +4,7 @@ payload:
   
   # ACA 机场
   - DOMAIN-KEYWORD,acaisbest
+  - DOMAIN-SUFFIX,12345.al
 
   # POE
   - DOMAIN-SUFFIX,poe.com
