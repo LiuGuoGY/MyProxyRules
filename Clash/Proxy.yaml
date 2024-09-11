@@ -50,3 +50,6 @@ payload:
 
   # Dribbble
   - DOMAIN-SUFFIX,dribbble.com
+
+  # Notion
+  - DOMAIN-SUFFIX,notion.so
