@@ -53,3 +53,5 @@ payload:
 
   # Notion
   - DOMAIN-SUFFIX,notion.so
+  - DOMAIN-SUFFIX,notionusercontent.com
+  - DOMAIN-SUFFIX,notion.site
