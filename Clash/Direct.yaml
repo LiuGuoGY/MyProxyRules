@@ -4,3 +4,6 @@ payload:
 
   # Proxy 150390.xyz
   - DOMAIN,proxy.150390.xyz
+
+  # 嘉立创贴片
+  - DOMAIN-SUFFIX,jlcsmt.com
