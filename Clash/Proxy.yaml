@@ -58,3 +58,6 @@ payload:
 
   # LVGL
   - DOMAIN-SUFFIX,lvgl.io
+
+  # NPM
+  - DOMAIN-SUFFIX,npmjs.org
