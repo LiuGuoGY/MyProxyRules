@@ -51,5 +51,8 @@ payload:
 
   # Steam
   - DOMAIN-SUFFIX,steampowered.com
+
+  # 阿里盘搜
+  - DOMAIN-SUFFIX,alipansou.com
   
 
