@@ -15,7 +15,8 @@ payload:
   # 阿里云盘
   - DOMAIN-SUFFIX,aliyundrive.com
   - DOMAIN-SUFFIX,alicdn.com
-  - DOMAIN-SUFFIX,aliyuncs.com
+  - DOMAIN-KEYWORD,losvc.alibaba-inc.com
+  - DOMAIN-KEYWORD,arms-retcode.aliyuncs.com
   
   # 脉脉
   - DOMAIN-SUFFIX,maimai.cn
