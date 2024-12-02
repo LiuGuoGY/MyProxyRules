@@ -21,8 +21,9 @@ payload:
   - DOMAIN-KEYWORD,visualstudio
 
   # TMDB
-  - DOMAIN,api.themoviedb.org
-  - DOMAIN,api.tmdb.org
+  - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,tmdb.org
+  - DOMAIN-SUFFIX,thetvdb.com
 
   # whimsical.com
   - DOMAIN-SUFFIX,whimsical.com
