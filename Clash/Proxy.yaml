@@ -25,6 +25,9 @@ payload:
   - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,thetvdb.com
 
+  # Emby
+  - DOMAIN-SUFFIX,mb3admin.com
+
   # whimsical.com
   - DOMAIN-SUFFIX,whimsical.com
 
