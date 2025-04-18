@@ -69,3 +69,6 @@ payload:
 
   # Hostloc
   - DOMAIN-SUFFIX,hostloc.com
+
+  # Mongodb
+  - DOMAIN-SUFFIX,mongodb.com
