@@ -55,5 +55,8 @@ payload:
 
   # 阿里盘搜
   - DOMAIN-SUFFIX,alipansou.com
+
+  # 煎蛋
+  - DOMAIN-SUFFIX,jandan.net
   
 
