@@ -4,3 +4,6 @@ payload:
   
   # Claude
   - DOMAIN-SUFFIX,claude.ai
+
+  # NotebookLM
+  - DOMAIN-SUFFIX,notebooklm.google
