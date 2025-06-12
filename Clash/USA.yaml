@@ -1,6 +1,6 @@
 payload:
-  # Bard AI
-  - DOMAIN,bard.google.com
+  # Gemini AI
+  - DOMAIN,gemini.google.com
   
   # Claude
   - DOMAIN-SUFFIX,claude.ai
