@@ -7,3 +7,6 @@ payload:
 
   # NotebookLM
   - DOMAIN-SUFFIX,notebooklm.google
+
+  # Cursor
+  - DOMAIN-SUFFIX,cursor.com
