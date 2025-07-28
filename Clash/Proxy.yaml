@@ -60,6 +60,7 @@ payload:
   - DOMAIN-SUFFIX,notion.so
   - DOMAIN-SUFFIX,notionusercontent.com
   - DOMAIN-SUFFIX,notion.site
+  - DOMAIN-SUFFIX,notion.com
 
   # LVGL
   - DOMAIN-SUFFIX,lvgl.io
