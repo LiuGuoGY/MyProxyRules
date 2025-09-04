@@ -58,5 +58,8 @@ payload:
 
   # 煎蛋
   - DOMAIN-SUFFIX,jandan.net
+
+  # Openlist
+  - DOMAIN-SUFFIX,oplist.org
   
 
