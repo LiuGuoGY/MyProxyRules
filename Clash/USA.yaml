@@ -1,6 +1,7 @@
 payload:
   # Gemini AI
   - DOMAIN,gemini.google.com
+  - DOMAIN,aistudio.google.com
   
   # Claude
   - DOMAIN-SUFFIX,claude.ai
