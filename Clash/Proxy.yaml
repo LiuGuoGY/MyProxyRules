@@ -79,3 +79,6 @@ payload:
 
   # Nodeseek
   - DOMAIN-SUFFIX,nodeseek.com
+
+  # RFC UHDNOW
+  - DOMAIN-SUFFIX,uhdnow.com
