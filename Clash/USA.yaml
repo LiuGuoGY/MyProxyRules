@@ -10,4 +10,4 @@ payload:
   - DOMAIN-SUFFIX,notebooklm.google
 
   # Cursor
-  - DOMAIN-SUFFIX,cursor.com
+  - DOMAIN-KEYWORD,cursor
