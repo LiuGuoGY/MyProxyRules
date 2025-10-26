@@ -75,8 +75,7 @@ payload:
   - DOMAIN-SUFFIX,mongodb.com
 
   # Frp服务器
-  - IP-CIDR,8.211.128.45/32
-  - IP-CIDR,8.211.172.223/32
+  - DOMAIN,fp.150390.xyz
 
   # Nodeseek
   - DOMAIN-SUFFIX,nodeseek.com
