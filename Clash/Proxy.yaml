@@ -75,7 +75,7 @@ payload:
   - DOMAIN-SUFFIX,mongodb.com
 
   # Frp服务器
-  - DOMAIN,fp.150390.xyz
+  #- DOMAIN,fp.150390.xyz
 
   # Nodeseek
   - DOMAIN-SUFFIX,nodeseek.com
