@@ -7,3 +7,6 @@ payload:
 
   # 嘉立创贴片
   - DOMAIN-SUFFIX,jlcsmt.com
+
+  # Frp
+  - DOMAIN,fp.150390.xyz
