@@ -84,4 +84,4 @@ payload:
   - DOMAIN-SUFFIX,uhdnow.com
 
   # Skinny
-  - DOMAIN,skinny.co.nz
+  - DOMAIN-KEYWORD,skinny
