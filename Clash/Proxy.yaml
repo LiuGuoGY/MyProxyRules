@@ -82,3 +82,6 @@ payload:
 
   # RFC UHDNOW
   - DOMAIN-SUFFIX,uhdnow.com
+
+  # Skinny
+  - DOMAIN,skinny.co.nz
