@@ -85,3 +85,6 @@ payload:
 
   # Skinny
   - DOMAIN-KEYWORD,skinny
+
+  # Cargo包
+  - DOMAIN-SUFFIX,crates.io
