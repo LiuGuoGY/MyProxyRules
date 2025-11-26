@@ -74,9 +74,6 @@ payload:
   # Mongodb
   - DOMAIN-SUFFIX,mongodb.com
 
-  # Frp服务器
-  #- DOMAIN,fp.150390.xyz
-
   # Nodeseek
   - DOMAIN-SUFFIX,nodeseek.com
 
@@ -88,3 +85,6 @@ payload:
 
   # Cargo包
   - DOMAIN-SUFFIX,crates.io
+
+  # 标签同步
+  - DOMAIN-SUFFIX,everhelper.pro
