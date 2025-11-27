@@ -8,5 +8,8 @@ payload:
   # 嘉立创贴片
   - DOMAIN-SUFFIX,jlcsmt.com
 
-  # Frp
+  # Frp Emby
   - DOMAIN,fp.150390.xyz
+
+  # Frp Nas
+  - DOMAIN,fnas.150390.xyz
