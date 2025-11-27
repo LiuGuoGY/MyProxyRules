@@ -1,15 +1,10 @@
 payload:
-  # Dler
-  - DOMAIN-SUFFIX,dler.cloud
-
   # Proxy 150390.xyz
   - DOMAIN,proxy.150390.xyz
 
   # 嘉立创贴片
   - DOMAIN-SUFFIX,jlcsmt.com
 
-  # Frp Emby
+  # Frp
   - DOMAIN,fp.150390.xyz
-
-  # Frp Nas
   - DOMAIN,fnas.150390.xyz
