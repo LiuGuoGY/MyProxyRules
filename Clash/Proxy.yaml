@@ -40,6 +40,7 @@ payload:
   # DockerHub
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,dockerstatic.com
 
   # Vercel
   - DOMAIN-SUFFIX,vercel.com
