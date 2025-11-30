@@ -89,3 +89,6 @@ payload:
 
   # 标签同步
   - DOMAIN-SUFFIX,everhelper.pro
+
+  # Alice vps
+  - DOMAIN-SUFFIX,alice.ws
