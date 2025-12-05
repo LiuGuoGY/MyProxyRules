@@ -11,3 +11,6 @@ payload:
 
   # Cursor
   - DOMAIN-KEYWORD,cursor
+
+  # Hostloc
+  - DOMAIN-SUFFIX,hostloc.com
