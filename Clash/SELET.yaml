@@ -1,0 +1,14 @@
+payload:
+  # 针对需要特定节点的手动选择
+  
+  # Gemini AI
+  - DOMAIN,gemini.google.com
+  - DOMAIN,aistudio.google.com
+
+  # OpenAI
+  - DOMAIN,openaiapi-site.azureedge.net,AI网站
+  - DOMAIN,chat.openai.com.cdn.cloudflare.net,AI网站
+  - DOMAIN-SUFFIX,openai.com,AI网站
+  - DOMAIN-SUFFIX,oaistatic.com,AI网站
+  - DOMAIN-SUFFIX,oaiusercontent.com,AI网站
+  - DOMAIN-SUFFIX,chatgpt.com,AI网站
