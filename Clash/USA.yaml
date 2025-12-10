@@ -1,16 +1,6 @@
 payload:
-  # Gemini AI
-  - DOMAIN,gemini.google.com
-  - DOMAIN,aistudio.google.com
-  
   # Claude
   - DOMAIN-SUFFIX,claude.ai
-
-  # NotebookLM
-  - DOMAIN-SUFFIX,notebooklm.google
-
-  # Cursor
-  - DOMAIN-KEYWORD,cursor
 
   # Hostloc
   - DOMAIN-SUFFIX,hostloc.com
