@@ -92,3 +92,8 @@ payload:
 
   # Alice vps
   - DOMAIN-SUFFIX,alice.ws
+
+  # 150390.xyz
+  - DOMAIN,immich.150390.xyz
+  - DOMAIN,nas.150390.xyz
+  - DOMAIN,emby.150390.xyz
