@@ -12,3 +12,6 @@ payload:
   - DOMAIN-SUFFIX,oaistatic.com,AI网站
   - DOMAIN-SUFFIX,oaiusercontent.com,AI网站
   - DOMAIN-SUFFIX,chatgpt.com,AI网站
+
+  # Cursor
+  - DOMAIN-KEYWORD,cursor
