@@ -61,5 +61,8 @@ payload:
 
   # Openlist
   - DOMAIN-SUFFIX,oplist.org
+
+  # 115
+  - DOMAIN-SUFFIX,115.com
   
 
