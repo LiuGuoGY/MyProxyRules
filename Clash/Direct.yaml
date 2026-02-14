@@ -8,3 +8,6 @@ payload:
   # Frp
   - DOMAIN,fp.150390.xyz
   - DOMAIN,fnas.150390.xyz
+
+  # bilibili
+  - DOMAIN-SUFFIX,aisee.tv
