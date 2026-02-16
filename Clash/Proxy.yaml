@@ -100,3 +100,6 @@ payload:
 
   # Stripe
   - DOMAIN-SUFFIX,stripe.com
+
+  # Steam
+  - DOMAIN-SUFFIX,steampowered.com
