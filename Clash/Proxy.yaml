@@ -103,3 +103,6 @@ payload:
 
   # Steam
   - DOMAIN-SUFFIX,steampowered.com
+
+  # 荣光医院
+  - DOMAIN-SUFFIX,rhospital.cc
