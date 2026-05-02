@@ -103,3 +103,6 @@ payload:
 
   # Steam
   - DOMAIN-SUFFIX,steampowered.com
+
+  # Apple
+  - DOMAIN,push.apple.com
