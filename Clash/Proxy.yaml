@@ -105,4 +105,4 @@ payload:
   - DOMAIN-SUFFIX,steampowered.com
 
   # Apple
-  - DOMAIN,push.apple.com
+  - DOMAIN-SUFFIX,push.apple.com
