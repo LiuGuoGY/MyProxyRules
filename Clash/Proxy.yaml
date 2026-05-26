@@ -106,3 +106,6 @@ payload:
 
   # Apple
   - DOMAIN-SUFFIX,push.apple.com
+
+  # Quark
+  - DOMAIN-SUFFIX,quark.cn
