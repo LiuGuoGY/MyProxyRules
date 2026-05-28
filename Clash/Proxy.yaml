@@ -1,6 +1,7 @@
 payload:
   # Dlercloud
   - DOMAIN-KEYWORD,dlercloud
+  - DOMAIN-SUFFIX,oixcloud.com
   
   # ACA 机场
   - DOMAIN-KEYWORD,acaisbest
