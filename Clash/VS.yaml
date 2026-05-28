@@ -64,5 +64,8 @@ payload:
 
   # 115
   - DOMAIN-SUFFIX,115.com
+
+  # Quark
+  - DOMAIN-SUFFIX,quark.cn
   
 
