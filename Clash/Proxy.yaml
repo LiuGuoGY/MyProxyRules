@@ -107,3 +107,6 @@ payload:
 
   # Apple
   - DOMAIN-SUFFIX,push.apple.com
+
+  # Hermes
+  - DOMAIN,hermesagent.org.cn
