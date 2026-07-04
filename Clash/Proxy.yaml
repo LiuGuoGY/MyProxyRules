@@ -29,6 +29,9 @@ payload:
   # Emby
   - DOMAIN-SUFFIX,mb3admin.com
 
+  #LightLayer
+  - DOMAIN-SUFFIX,lightlayer.net
+
   # whimsical.com
   - DOMAIN-SUFFIX,whimsical.com
 
