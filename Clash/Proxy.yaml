@@ -113,3 +113,6 @@ payload:
 
   # Hermes
   - DOMAIN,hermesagent.org.cn
+
+  # Hermes
+  - DOMAIN-SUFFIX,rhospital.cc
