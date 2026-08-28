@@ -8,3 +8,4 @@ payload:
   # Google Notebook
   - DOMAIN-SUFFIX,notebook.google
   - DOMAIN,notebooklm.google.com
+  - DOMAIN,notebook.google.com
