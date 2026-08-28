@@ -4,3 +4,6 @@ payload:
 
   # Hostloc
   - DOMAIN-SUFFIX,hostloc.com
+
+  # Google Notebook
+  - DOMAIN-SUFFIX,notebook.google
