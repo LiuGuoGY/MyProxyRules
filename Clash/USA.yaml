@@ -2,6 +2,9 @@ payload:
   # Claude
   - DOMAIN-SUFFIX,claude.ai
 
+  # OpenAI
+  - DOMAIN-SUFFIX,oaiusercontent.com
+
   # Hostloc
   - DOMAIN-SUFFIX,hostloc.com
 
